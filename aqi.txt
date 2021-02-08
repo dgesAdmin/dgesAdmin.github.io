@@ -1,0 +1,117 @@
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-137158817-2'></script><script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date()); gtag('config', 'UA-137158817-2');</script>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="TQAMNEWAQITABLE.ASPX" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="FB0C4454" />
+    <div>
+    
+        <span id="Label1" style="display:inline-block;word-break:break-all;"><b><font size="4">環保局提醒:部分地區AQI為橘色(對敏感族群不健康)等級，請減少劇烈活動，長時間在戶外請戴口罩。</font></b></span>
+    
+    </div>
+    <table class="auto-style1">
+        <tr>
+            <td><br />
+                <span id="Label2"><b>空氣品質指標(AQI)發布時間：2021年02月08日 17時</b></span>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+            </td>
+        </tr>
+        <tr>
+            <td>
+                
+                
+                
+                
+                
+            
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>
+	<table cellspacing="0" cellpadding="4" id="GridView1">
+		<tr bgcolor="#1C5E55">
+			<th ROWspan="2" width="130"><font color="White"><b>測站名稱</b></font></th><th ROWspan="2" width="70"><font color="White"><b>對健康影響等級</b></font></th><th ROWspan="2" width="49"><font color="White"><b>AQI指標值</b></font></th><th ROWspan="2" width="100"><font color="White"><b>指標污染物</b></font></th><th COLspan="2" width="1"><font color="White"><b>二氧化硫(SO<sub>2</sub>)</b></font></th><th COLspan="2" width="74"><font color="White"><b>一氧化碳(CO)</b></font></th><th COLspan="2" width="1"><font color="White"><b>臭氧(O<sub>3</sub>)</b></font></th><th COLspan="2" width="74"><font color="White"><b>二氧化氮(NO<sub>2</sub>)</b></font></th><th COLspan="2" width="1"><font color="White"><b>懸浮微粒(PM<sub>10</sub>)</b></font></th><th COLspan="2" width="74"><font color="White"><b>細懸浮微粒(PM<sub>2.5</sub>)</th></tr><tr></b></font></th><th width="1"><font color="White"><b></b></font></th><th width="74"><font color="White"><b>濃度(ppb)</b></font></th><th width="1"><font color="White"><b></b></font></th><th width="84"><font color="White"><b>8小時移動平均濃度(ppm)</b></font></th><th width="1"><font color="White"><b></b></font></th><th width="84"><font color="White"><b>8小時移動平均濃度(ppb)</b></font></th><th><font color="White"><b></b></font></th><th><font color="White"><b>濃度(ppb)</b></font></th><th><font color="White"><b></b></font></th><th><font color="White"><b>移動平均濃度(μg/m<sup>3</sup>)</b></font></th><th><font color="White"><b></b></font></th><th><font color="White"><b>移動平均濃度(μg/m<sup>3</sup>)</b></font></th>
+		</tr><tr align="center" bgcolor="#EFF3FB">
+			<td width="130"><a href="aqi/aqiNEW.ASPX?name=1">西屯測站(環保署)</a></td><td width="70">對敏感族群不健康</td><td width="49">103</td><td width="100">細懸浮微粒</td><td width="1">&nbsp;</td><td width="74">1.3</td><td width="1">&nbsp;</td><td width="74">0.40</td><td width="1">&nbsp;</td><td width="74">48</td><td width="1">&nbsp;</td><td width="74">16.2</td><td width="1">&nbsp;</td><td width="84">73</td><td width="1">&nbsp;</td><td width="84">36</td>
+		</tr><tr align="center" bgcolor="White">
+			<td width="130"><font color="#E69D00"><a href="aqi/aqiNEW.ASPX?name=2">忠明測站(環保署)</a></font></td><td width="70"><font color="#E69D00">普通</font></td><td width="49"><font color="#E69D00">95</font></td><td width="100"><font color="#E69D00">細懸浮微粒</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">1.6</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">0.40</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">44</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">16.9</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="84"><font color="#E69D00">69</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="84"><font color="#E69D00">33</font></td>
+		</tr><tr align="center" bgcolor="#EFF3FB">
+			<td width="130"><font color="#E69D00"><a href="aqi/aqiNEW.ASPX?name=3">大里測站(環保署)</a></font></td><td width="70"><font color="#E69D00">普通</font></td><td width="49"><font color="#E69D00">97</font></td><td width="100"><font color="#E69D00">細懸浮微粒</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">2.1</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">0.60</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">48</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">17.0</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="84"><font color="#E69D00">62</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="84"><font color="#E69D00">34</font></td>
+		</tr><tr align="center" bgcolor="White">
+			<td width="130"><font color="#E69D00"><a href="aqi/aqiNEW.ASPX?name=4">沙鹿測站(環保署)</a></font></td><td width="70"><font color="#E69D00">普通</font></td><td width="49"><font color="#E69D00">92</font></td><td width="100"><font color="#E69D00">細懸浮微粒</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">0.0</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">0.40</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">51</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">5.5</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="84"><font color="#E69D00">77</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="84"><font color="#E69D00">32</font></td>
+		</tr><tr align="center" bgcolor="#EFF3FB">
+			<td width="130"><font color="#E69D00"><a href="aqi/aqiNEW.ASPX?name=5">豐原測站(環保署)</a></font></td><td width="70"><font color="#E69D00">普通</font></td><td width="49"><font color="#E69D00">67</font></td><td width="100"><font color="#E69D00">細懸浮微粒</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">1.2</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">0.30</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">60</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">8.0</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="84"><font color="#E69D00">37</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="84"><font color="#E69D00">22</font></td>
+		</tr><tr align="center" bgcolor="White">
+			<td width="130"><a href="aqi/aqiNEW.ASPX?name=6">文山測站</a></td><td width="70">對敏感族群不良</td><td width="49">106</td><td width="100">細懸浮微粒</td><td width="1">&nbsp;</td><td width="74">1.0</td><td width="1">&nbsp;</td><td width="74">0.49</td><td width="1">&nbsp;</td><td width="74">52</td><td width="1">&nbsp;</td><td width="74">12.4</td><td width="1">&nbsp;</td><td width="84">84</td><td width="1">&nbsp;</td><td width="84">38</td>
+		</tr><tr align="center" bgcolor="#EFF3FB">
+			<td width="130"><a href="aqi/aqiNEW.ASPX?name=7">大甲測站</a></td><td width="70">對敏感族群不良</td><td width="49">101</td><td width="100">細懸浮微粒</td><td width="1">&nbsp;</td><td width="74">1.5</td><td width="1">&nbsp;</td><td width="74">0.56</td><td width="1">&nbsp;</td><td width="74">50</td><td width="1">&nbsp;</td><td width="74">11.5</td><td width="1">&nbsp;</td><td width="84">0</td><td width="1">&nbsp;</td><td width="84">36</td>
+		</tr><tr align="center" bgcolor="White">
+			<td width="130"><font color="#E69D00"><a href="aqi/aqiNEW.ASPX?name=8">太平測站</a></font></td><td width="70"><font color="#E69D00">普通</font></td><td width="49"><font color="#E69D00">80</font></td><td width="100"><font color="#E69D00">細懸浮微粒</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">1.4</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">0.78</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">50</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">17.8</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="84"><font color="#E69D00">51</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="84"><font color="#E69D00">27</font></td>
+		</tr><tr align="center" bgcolor="#EFF3FB">
+			<td width="130"><font color="#E69D00"><a href="aqi/aqiNEW.ASPX?name=9">霧峰測站</a></font></td><td width="70"><font color="#E69D00">普通</font></td><td width="49"><font color="#E69D00">97</font></td><td width="100"><font color="#E69D00">細懸浮微粒</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">1.2</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">0.92</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">56</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">18.6</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="84"><font color="#E69D00">70</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="84"><font color="#E69D00">34</font></td>
+		</tr><tr align="center" bgcolor="White">
+			<td width="130"><a href="aqi/aqiNEW.ASPX?name=10">烏日測站</a></td><td width="70">對敏感族群不良</td><td width="49">101</td><td width="100">細懸浮微粒</td><td width="1">&nbsp;</td><td width="74">2.1</td><td width="1">&nbsp;</td><td width="74">0.28</td><td width="1">&nbsp;</td><td width="74">52</td><td width="1">&nbsp;</td><td width="74">19.0</td><td width="1">&nbsp;</td><td width="84">76</td><td width="1">&nbsp;</td><td width="84">36</td>
+		</tr><tr align="center" bgcolor="#EFF3FB">
+			<td width="130"><font color="#E69D00"><a href="aqi/aqiNEW.ASPX?name=11">后里測站</a></font></td><td width="70"><font color="#E69D00">普通</font></td><td width="49"><font color="#E69D00">78</font></td><td width="100"><font color="#E69D00">細懸浮微粒</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">1.4</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">0.42</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">45</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">12.9</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="84"><font color="#E69D00">64</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="84"><font color="#E69D00">27</font></td>
+		</tr><tr align="center" bgcolor="White">
+			<td width="130"><a href="aqi/aqiNEW.ASPX?name=12">梧棲站(台電)</a></td><td width="70">對敏感族群不良</td><td width="49">108</td><td width="100">懸浮微粒</td><td width="1">&nbsp;</td><td width="74">3.0</td><td width="1">&nbsp;</td><td width="74">無監測</td><td width="1">&nbsp;</td><td width="74">38</td><td width="1">&nbsp;</td><td width="74">12.1</td><td width="1">&nbsp;</td><td width="84">143</td><td width="1">&nbsp;</td><td width="84">36</td>
+		</tr><tr align="center" bgcolor="#EFF3FB">
+			<td width="130"><a href="aqi/aqiNEW.ASPX?name=13">大肚站(台電)</a></td><td width="70">對敏感族群不良</td><td width="49">122</td><td width="100">細懸浮微粒</td><td width="1">&nbsp;</td><td width="74">1.4</td><td width="1">&nbsp;</td><td width="74">無監測</td><td width="1">&nbsp;</td><td width="74">40</td><td width="1">&nbsp;</td><td width="74">10.5</td><td width="1">&nbsp;</td><td width="84">108</td><td width="1">&nbsp;</td><td width="84">44</td>
+		</tr><tr align="center" bgcolor="White">
+			<td width="130"><font color="#E69D00"><a href="aqi/aqiNEW.ASPX?name=14">東大站(台電)</a></font></td><td width="70"><font color="#E69D00">普通</font></td><td width="49"><font color="#E69D00">99</font></td><td width="100"><font color="#E69D00">細懸浮微粒</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">1.2</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">無監測</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">40</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="74"><font color="#E69D00">13.9</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="84"><font color="#E69D00">74</font></td><td width="1"><font color="#E69D00">&nbsp;</font></td><td width="84"><font color="#E69D00">35</font></td>
+		</tr><tr align="center" bgcolor="#EFF3FB">
+			<td width="130"><a href="aqi/aqiNEW.ASPX?name=15">清水站(台電)</a></td><td width="70">對敏感族群不良</td><td width="49">109</td><td width="100">細懸浮微粒</td><td width="1">&nbsp;</td><td width="74">2.1</td><td width="1">&nbsp;</td><td width="74">無監測</td><td width="1">&nbsp;</td><td width="74">56</td><td width="1">&nbsp;</td><td width="74">14.3</td><td width="1">&nbsp;</td><td width="84">70</td><td width="1">&nbsp;</td><td width="84">39</td>
+		</tr><tr align="center" bgcolor="White">
+			<td width="130"><a href="aqi/aqiNEW.ASPX?name=16">龍井站(台電)</a></td><td width="70">對敏感族群不良</td><td width="49">108</td><td width="100">懸浮微粒</td><td width="1">&nbsp;</td><td width="74">1.5</td><td width="1">&nbsp;</td><td width="74">0.47</td><td width="1">&nbsp;</td><td width="74">33</td><td width="1">&nbsp;</td><td width="74">11.6</td><td width="1">&nbsp;</td><td width="84">144</td><td width="1">&nbsp;</td><td width="84">31</td>
+		</tr>
+	</table>
+</div>
+              </td>
+        </tr>
+    </table>
+    </form>
+    <table>
+    <tr>
+    <td>
+    <p>1.各污染物以環保署公布即時空氣品質指標(AQI)值計算方法換算，<A href="https://airtw.epa.gov.tw/CHT/Information/Standard/AirQualityIndicator.aspx#tg4" target="_blank">參考網址</A>
+    <p>2.測值說明：
+    <br>　O<sub>3</sub>：取最近連續8小時移動平均值
+    <br>　PM<sub>2.5</sub>：0.5×前12小時平均+0.5×前4小時平均(前4小時2筆有效，前12小時6筆有效)
+    <br>　PM<sub>10</sub>：0.5×前12小時平均+0.5×前4小時平均(前4小時2筆有效，前12小時6筆有效)
+    <br>　CO：取最近連續8小時移動平均值
+    <br>　SO<sub>2</sub>：取即時濃度值
+    <br>　NO<sub>2</sub>：取即時濃度值
+    <p>"—"為無效數據(監測資料不足)，副指標部分"＊"表該濃度無副指標對應值 
+    </td>
+    <tr>
+    </table>
+    </body>
+</html>
